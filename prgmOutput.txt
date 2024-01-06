@@ -1,0 +1,192 @@
+Initial Account Info: 
+
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+
+Unsorted Accounts: 
+
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+
+Sorted by Account Number-----
+
+Quick Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+
+Bubble Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+
+Insertion Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+
+Sorted by Social Security Number-----
+
+Quick Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+
+Bubble Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+
+Insertion Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+
+Sorted Alphabetically by Name-----
+
+Quick Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+
+Bubble Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+
+Insertion Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+
+Sorted by Account Balance-----
+
+Quick Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+
+Bubble Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+
+Insertion Sort: 
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+
+
+
+Final Accounts: 
+
+First     Last      SSN            Account Number      Account Type      Balance      Maturity Date      Account Status     
+John      Doe       123445678      123456              Savings           200.55       N/A                OPEN               
+Jim       Beam      345556789      567890              Checking          1234.56      N/A                OPEN               
+Jane      Eyre      345667890      987654              Savings           2.33         N/A                OPEN               
+Tom       Sawyer    456778901      234567              CD                500.00       7/22/2021          OPEN               
+Huck      Finn      567889012      345678              Checking          123.98       N/A                OPEN               
+John      Doe       123445678      222222              CD                5000.00      12/12/2021         OPEN               
+John      Doe       123445678      333333              Checking          999.99       N/A                OPEN               
+Huck      Finn      567889012      654321              Savings           543.66       N/A                OPEN               
+Jack      Spratt    678990123      785609              Savings           333.33       N/A                OPEN               
